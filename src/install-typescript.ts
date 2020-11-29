@@ -1,3 +1,3 @@
-let message: string = "Hello typesctipt";
+let message: string = "Hello ts-node";
 console.log({ message });
 export{}
